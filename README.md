@@ -36,7 +36,7 @@ Em muitos casos, aprender novos conceitos pode ser uma experiência passiva e po
 
 A solução proposta é uma aventura textual dinâmica onde a narrativa e o estado do jogo são gerados em tempo real por um modelo de IA (Gemini 2.5 Flash), oferecendo as seguintes funcionalidades e destacando-se pela sua criatividade:
 
-* **Aventura Educacional:** O foco principal é ensinar um conceito específico dentro do tema escolhido através da narrativa e dos desafios do jogo.
+* **Aventura Educacional:** O foco principal é ensinar um conceito específico dentro do tema escolhido através da narrativa e dos desafios do jogo. A aventura é calibrada para ser concluída em cerca de 1 hora e, ao final sempre irá consolidar os conceitos vistos ao longo da aventura e o progresso do aventureiro.
 
 * **História Dinâmica:** A narrativa e o estado do jogo são gerados em tempo real pelo modelo de IA, adaptando-se às ações do jogador.
 
