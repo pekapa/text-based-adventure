@@ -62,13 +62,13 @@ A **eficácia** da solução é comprovada pela sua capacidade de gerar narrativ
 
 1. **Ambiente:** Este projeto é projetado para ser executado em um ambiente Python que suporte `ipywidgets`, como Google Colab.
 
-2. **Bibliotecas:** O projeto usa as bibliotecas padrão do Google Colab e instala, em seu primeiro comando, o `google-genai` e o `ipywidgets`
+2. **Código:** Copie o arquivo `Text_Based_Adventure.ipynb` em seu Google Drive para criar um novo notebook Colab. Ou acesse a versão original [aqui](https://colab.research.google.com/drive/1QzbOf35S0CD9W2WqGvWTy6tqxIuELXhX?usp=sharing)
 
-3. **Chave de API do Google:** Você precisará de uma Chave de API do Google Cloud com acesso à API Gemini. Configure-a como uma variável de ambiente chamada `GOOGLE_API_KEY`. No Google Colab, você pode usar a funcionalidade "Secrets" (`userdata.get('GOOGLE_API_KEY')`).
+4. **Bibliotecas:** O projeto usa as bibliotecas padrão do Google Colab e instala, em seu primeiro comando, o `google-genai` e o `ipywidgets`
 
-4. **Código:** Copie o arquivo `Text_Based_Adventure.ipynb` em seu Google Drive para criar um novo notebook Colab.
+5. **Chave de API do Google:** Você precisará de uma Chave de API do Google Cloud com acesso à API Gemini. Configure-a como uma variável de ambiente chamada `GOOGLE_API_KEY`. No Google Colab, você pode usar a funcionalidade "Secrets" (`userdata.get('GOOGLE_API_KEY')`).
 
-5. **Executar:** Execute as células em ordem e a última célula iniciará o jogo em si.
+6. **Executar:** Conecte o notebook e Execute todas as células em ordem e a última célula iniciará o jogo em si.
 
 ## ▶️ Como Jogar
 
